@@ -1,7 +1,7 @@
 ﻿{
   "stepAssemblies": [
     {
-      "assembly": "Ytivitaler.Entities.Tests"
+      "assembly": "DocuSearch.Entities.Tests"
     }
   ]
 }

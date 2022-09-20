@@ -1,10 +1,10 @@
 ﻿{
   "stepAssemblies": [
     {
-      "assembly": "Ytivitaler.ValueObjects.Tests"
+      "assembly": "DocuSearch.ValueObjects.Tests"
     },
     {
-      "assembly": "Ytivitaler.DataAccess.Tests"
+      "assembly": "DocuSearch.DataAccess.Tests"
     }
   ]
 }
