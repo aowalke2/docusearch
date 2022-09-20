@@ -1,0 +1,10 @@
+﻿{
+  "stepAssemblies": [
+    {
+      "assembly": "Ytivitaler.ValueObjects.Tests"
+    },
+    {
+      "assembly": "Ytivitaler.DataAccess.Tests"
+    }
+  ]
+}
